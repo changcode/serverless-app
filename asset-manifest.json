@@ -1,0 +1,13 @@
+{
+  "main.css": "/serverless-app/static/css/main.cbb34ee6.chunk.css",
+  "main.js": "/serverless-app/static/js/main.d8214dee.chunk.js",
+  "main.js.map": "/serverless-app/static/js/main.d8214dee.chunk.js.map",
+  "static/js/1.bc050cb1.chunk.js": "/serverless-app/static/js/1.bc050cb1.chunk.js",
+  "static/js/1.bc050cb1.chunk.js.map": "/serverless-app/static/js/1.bc050cb1.chunk.js.map",
+  "runtime~main.js": "/serverless-app/static/js/runtime~main.01b85800.js",
+  "runtime~main.js.map": "/serverless-app/static/js/runtime~main.01b85800.js.map",
+  "static/css/main.cbb34ee6.chunk.css.map": "/serverless-app/static/css/main.cbb34ee6.chunk.css.map",
+  "index.html": "/serverless-app/index.html",
+  "precache-manifest.9c631e71a15579da323b2f858fa15544.js": "/serverless-app/precache-manifest.9c631e71a15579da323b2f858fa15544.js",
+  "service-worker.js": "/serverless-app/service-worker.js"
+}
