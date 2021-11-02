@@ -26,7 +26,7 @@ export default class Form extends Component {
     await axios.post(
       'https://tohetosrq8.execute-api.us-east-1.amazonaws.com/default/serverlessAppFunction',
       { key1: `${name}, ${message}` },
-			{ Access-Control-Allow-Origin, `*` }
+			{ headers: {Access-Control-Allow-Origin, `*` }}
     );
   }
 
